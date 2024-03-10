@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jiyoung%20Na&desc=Java%20Back-End%20Developer&descAlign=50&descAlignY=31)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jiyoung%20Na&desc=Backend%20Developer&descAlign=50&descAlignY=31)
 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyna120)
 
