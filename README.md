@@ -10,7 +10,7 @@
 
 - 💼 SI 기업 **Java 백엔드 개발자**
 - 🚀 **대기업 프로젝트 파견 중**
-- 💜 **보라색처럼 깊고 차분하게, 꾸준히 성장 중입니다**
+- 💜 **깊고 차분하게, 꾸준히 성장 중입니다**
 - 🧱 **탄탄한 설계, 꼼꼼한 테스트, 안정적인 운영을 지향합니다**
 - 🧑‍🤝‍🧑 협업을 즐기며, 문서화와 코드 리뷰를 중요하게 생각합니다
 
@@ -21,20 +21,22 @@
 ### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-8e44ad?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6f42c1?style=flat-square&logo=spring-boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-7d3c98?style=flat-square&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square.&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-bd7ff6?style=flat-square)
 
 ### 🗄️ DB & Infra
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysq|&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/NCP-03C75A?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-e67e22?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3498db?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
@@ -45,14 +47,17 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD%20Tool-8E44AD?style=flat-square&logoColor=white)
 
 <br/>
 
 ## 📚 I'm Currently Learning
 
 - MSA 기반 백엔드 아키텍처 및 서비스 분리 설계
-- React + TypeScript 기반의 프론트엔드 심화
-- AWS 기반 운영 & 모니터링 (EKS, CloudWatch, Slack 연동 등)
+- Kafka를 활용한 **데이터 파이프라인 구축**
+- Jenkins 기반의 **CI/CD 자동화 흐름 이해 및 실습**
+- React + TypeScript 기반 프론트엔드 심화
 
 <br/>
 
