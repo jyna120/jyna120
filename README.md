@@ -1,14 +1,12 @@
 <h2 align="center">✨ Welcome to my GitHub! ✨</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=200&text=Hi%20there,%20I'm%20Jiyoung!&fontAlign=50&fontAlignY=40&desc=Back-end%20Developer&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=200&text=Hi%20there,%20I'm%20Jiyoung!&fontAlign=50&fontAlignY=40&desc=Full-stack%20Developer&descAlign=50&descAlignY=70" />
 </p>
-
-<br/>
 
 ## 👩‍💻 About Me
 
-- 💼 SI 기업 **Java 백엔드 개발자**
+- 💼 SI 기업 **풀스택 개발자**
 - 🚀 **대기업 MSA 프로젝트 파견 중**
 - 💜 **깊고 차분하게, 꾸준히 성장 중입니다**
 - 🧱 **탄탄한 설계, 꼼꼼한 테스트, 안정적인 운영을 지향합니다**
@@ -26,7 +24,7 @@
 ![JSP](https://img.shields.io/badge/JSP-bd7ff6?style=flat-square)
 
 ### 🗄️ DB & Infra
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysq|&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&.logo=mysq|l&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/NCP-03C75A?style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -64,7 +62,7 @@
 ## 🏆 My Work Ethic
 
 > **성실함은 저의 가장 큰 강점입니다.**  
-> ✅ 교육 기간 **100% 출석, 모든 과제 제출**  
+> ✅ 교육 기간 **100% 출석, 모든 프로젝트 우수**  
 > 🏅 **최우수 교육생** 수상 (출석률과 과제 성실성 모두 인정)  
 > 🧪 50회 이상 테스트하며 **치명적인 버그**를 직접 찾아내고 해결  
 > 🔍 "**꼼꼼하다, 믿음이 간다**"는 말을 자주 듣습니다
